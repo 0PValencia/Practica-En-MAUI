@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WIB3h56K50g=",
+  "dgSpecHash": "l6UgNWeRYao=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ariel\\Desktop\\CLASES DE YOUTUBE\\PracticaEnMaui\\PracticaEnMaui\\PracticaEnMaui.csproj",
+  "projectFilePath": "C:\\Users\\Ariel\\Desktop\\semestre 2\\PROGRAMACION 1\\PROYECTO DEL AHORCADO\\JUEGO DEL AHORCADO-MAUI.NET\\Control de versiones\\Version 1\\Practica-En-MAUI\\PracticaEnMaui\\PracticaEnMaui.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ariel\\.nuget\\packages\\googlegson\\2.10.1.4\\googlegson.2.10.1.4.nupkg.sha512",
     "C:\\Users\\Ariel\\.nuget\\packages\\microsoft.extensions.configuration\\8.0.0\\microsoft.extensions.configuration.8.0.0.nupkg.sha512",
@@ -111,8 +111,7 @@
     "C:\\Users\\Ariel\\.nuget\\packages\\xamarin.kotlin.stdlib.jdk7\\1.9.0.1\\xamarin.kotlin.stdlib.jdk7.1.9.0.1.nupkg.sha512",
     "C:\\Users\\Ariel\\.nuget\\packages\\xamarin.kotlin.stdlib.jdk8\\1.9.0.1\\xamarin.kotlin.stdlib.jdk8.1.9.0.1.nupkg.sha512",
     "C:\\Users\\Ariel\\.nuget\\packages\\xamarin.kotlinx.coroutines.android\\1.7.2.1\\xamarin.kotlinx.coroutines.android.1.7.2.1.nupkg.sha512",
-    "C:\\Users\\Ariel\\.nuget\\packages\\xamarin.kotlinx.coroutines.core.jvm\\1.7.2.1\\xamarin.kotlinx.coroutines.core.jvm.1.7.2.1.nupkg.sha512",
-    "C:\\Users\\Ariel\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.19041.44\\microsoft.windows.sdk.net.ref.10.0.19041.44.nupkg.sha512"
+    "C:\\Users\\Ariel\\.nuget\\packages\\xamarin.kotlinx.coroutines.core.jvm\\1.7.2.1\\xamarin.kotlinx.coroutines.core.jvm.1.7.2.1.nupkg.sha512"
   ],
   "logs": []
 }

@@ -1,9 +1,33 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Ariel\\Desktop\\CLASES DE YOUTUBE\\PracticaEnMaui\\",
+  "WorkspaceRootPath": "C:\\Users\\Ariel\\Desktop\\semestre 2\\PROGRAMACION 1\\PROYECTO DEL AHORCADO\\JUEGO DEL AHORCADO-MAUI.NET\\Control de versiones\\Version 1\\Practica-En-MAUI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AF4BBC77-EB2D-4D36-AF3F-6457990C226C}|PracticaEnMaui\\PracticaEnMaui.csproj|c:\\users\\ariel\\desktop\\clases de youtube\\practicaenmaui\\practicaenmaui\\practicaenmaui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{AF4BBC77-EB2D-4D36-AF3F-6457990C226C}|PracticaEnMaui\\PracticaEnMaui.csproj|c:\\users\\ariel\\desktop\\semestre 2\\programacion 1\\proyecto del ahorcado\\juego del ahorcado-maui.net\\control de versiones\\version 1\\practica-en-maui\\practicaenmaui\\page\\tabbedpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AF4BBC77-EB2D-4D36-AF3F-6457990C226C}|PracticaEnMaui\\PracticaEnMaui.csproj|solutionrelative:practicaenmaui\\page\\tabbedpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF4BBC77-EB2D-4D36-AF3F-6457990C226C}|PracticaEnMaui\\PracticaEnMaui.csproj|c:\\users\\ariel\\desktop\\semestre 2\\programacion 1\\proyecto del ahorcado\\juego del ahorcado-maui.net\\control de versiones\\version 1\\practica-en-maui\\practicaenmaui\\page\\flyuotpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AF4BBC77-EB2D-4D36-AF3F-6457990C226C}|PracticaEnMaui\\PracticaEnMaui.csproj|solutionrelative:practicaenmaui\\page\\flyuotpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF4BBC77-EB2D-4D36-AF3F-6457990C226C}|PracticaEnMaui\\PracticaEnMaui.csproj|c:\\users\\ariel\\desktop\\semestre 2\\programacion 1\\proyecto del ahorcado\\juego del ahorcado-maui.net\\control de versiones\\version 1\\practica-en-maui\\practicaenmaui\\page\\fleyoutmenupage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AF4BBC77-EB2D-4D36-AF3F-6457990C226C}|PracticaEnMaui\\PracticaEnMaui.csproj|solutionrelative:practicaenmaui\\page\\fleyoutmenupage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF4BBC77-EB2D-4D36-AF3F-6457990C226C}|PracticaEnMaui\\PracticaEnMaui.csproj|c:\\users\\ariel\\desktop\\semestre 2\\programacion 1\\proyecto del ahorcado\\juego del ahorcado-maui.net\\control de versiones\\version 1\\practica-en-maui\\practicaenmaui\\page\\pagina3.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AF4BBC77-EB2D-4D36-AF3F-6457990C226C}|PracticaEnMaui\\PracticaEnMaui.csproj|solutionrelative:practicaenmaui\\page\\pagina3.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF4BBC77-EB2D-4D36-AF3F-6457990C226C}|PracticaEnMaui\\PracticaEnMaui.csproj|c:\\users\\ariel\\desktop\\semestre 2\\programacion 1\\proyecto del ahorcado\\juego del ahorcado-maui.net\\control de versiones\\version 1\\practica-en-maui\\practicaenmaui\\page\\pagina2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AF4BBC77-EB2D-4D36-AF3F-6457990C226C}|PracticaEnMaui\\PracticaEnMaui.csproj|solutionrelative:practicaenmaui\\page\\pagina2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF4BBC77-EB2D-4D36-AF3F-6457990C226C}|PracticaEnMaui\\PracticaEnMaui.csproj|c:\\users\\ariel\\desktop\\semestre 2\\programacion 1\\proyecto del ahorcado\\juego del ahorcado-maui.net\\control de versiones\\version 1\\practica-en-maui\\practicaenmaui\\page\\pagina1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AF4BBC77-EB2D-4D36-AF3F-6457990C226C}|PracticaEnMaui\\PracticaEnMaui.csproj|solutionrelative:practicaenmaui\\page\\pagina1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF4BBC77-EB2D-4D36-AF3F-6457990C226C}|PracticaEnMaui\\PracticaEnMaui.csproj|c:\\users\\ariel\\desktop\\semestre 2\\programacion 1\\proyecto del ahorcado\\juego del ahorcado-maui.net\\control de versiones\\version 1\\practica-en-maui\\practicaenmaui\\practicaenmaui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{AF4BBC77-EB2D-4D36-AF3F-6457990C226C}|PracticaEnMaui\\PracticaEnMaui.csproj|solutionrelative:practicaenmaui\\practicaenmaui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
@@ -19,10 +43,88 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "PracticaEnMaui",
-              "DocumentMoniker": "C:\\Users\\Ariel\\Desktop\\CLASES DE YOUTUBE\\PracticaEnMaui\\PracticaEnMaui\\PracticaEnMaui.csproj",
+              "Title": "TabbedPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Ariel\\Desktop\\semestre 2\\PROGRAMACION 1\\PROYECTO DEL AHORCADO\\JUEGO DEL AHORCADO-MAUI.NET\\Control de versiones\\Version 1\\Practica-En-MAUI\\PracticaEnMaui\\Page\\TabbedPage.xaml",
+              "RelativeDocumentMoniker": "PracticaEnMaui\\Page\\TabbedPage.xaml",
+              "ToolTip": "C:\\Users\\Ariel\\Desktop\\semestre 2\\PROGRAMACION 1\\PROYECTO DEL AHORCADO\\JUEGO DEL AHORCADO-MAUI.NET\\Control de versiones\\Version 1\\Practica-En-MAUI\\PracticaEnMaui\\Page\\TabbedPage.xaml",
+              "RelativeToolTip": "PracticaEnMaui\\Page\\TabbedPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-09T11:32:13.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FlyuotPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Ariel\\Desktop\\semestre 2\\PROGRAMACION 1\\PROYECTO DEL AHORCADO\\JUEGO DEL AHORCADO-MAUI.NET\\Control de versiones\\Version 1\\Practica-En-MAUI\\PracticaEnMaui\\Page\\FlyuotPage.xaml",
+              "RelativeDocumentMoniker": "PracticaEnMaui\\Page\\FlyuotPage.xaml",
+              "ToolTip": "C:\\Users\\Ariel\\Desktop\\semestre 2\\PROGRAMACION 1\\PROYECTO DEL AHORCADO\\JUEGO DEL AHORCADO-MAUI.NET\\Control de versiones\\Version 1\\Practica-En-MAUI\\PracticaEnMaui\\Page\\FlyuotPage.xaml",
+              "RelativeToolTip": "PracticaEnMaui\\Page\\FlyuotPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-09T11:31:40.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FleyoutMenuPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Ariel\\Desktop\\semestre 2\\PROGRAMACION 1\\PROYECTO DEL AHORCADO\\JUEGO DEL AHORCADO-MAUI.NET\\Control de versiones\\Version 1\\Practica-En-MAUI\\PracticaEnMaui\\Page\\FleyoutMenuPage.xaml",
+              "RelativeDocumentMoniker": "PracticaEnMaui\\Page\\FleyoutMenuPage.xaml",
+              "ToolTip": "C:\\Users\\Ariel\\Desktop\\semestre 2\\PROGRAMACION 1\\PROYECTO DEL AHORCADO\\JUEGO DEL AHORCADO-MAUI.NET\\Control de versiones\\Version 1\\Practica-En-MAUI\\PracticaEnMaui\\Page\\FleyoutMenuPage.xaml",
+              "RelativeToolTip": "PracticaEnMaui\\Page\\FleyoutMenuPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-09T11:31:15.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "pagina3.xaml",
+              "DocumentMoniker": "C:\\Users\\Ariel\\Desktop\\semestre 2\\PROGRAMACION 1\\PROYECTO DEL AHORCADO\\JUEGO DEL AHORCADO-MAUI.NET\\Control de versiones\\Version 1\\Practica-En-MAUI\\PracticaEnMaui\\Page\\pagina3.xaml",
+              "RelativeDocumentMoniker": "PracticaEnMaui\\Page\\pagina3.xaml",
+              "ToolTip": "C:\\Users\\Ariel\\Desktop\\semestre 2\\PROGRAMACION 1\\PROYECTO DEL AHORCADO\\JUEGO DEL AHORCADO-MAUI.NET\\Control de versiones\\Version 1\\Practica-En-MAUI\\PracticaEnMaui\\Page\\pagina3.xaml",
+              "RelativeToolTip": "PracticaEnMaui\\Page\\pagina3.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-09T11:30:33.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "pagina2.xaml",
+              "DocumentMoniker": "C:\\Users\\Ariel\\Desktop\\semestre 2\\PROGRAMACION 1\\PROYECTO DEL AHORCADO\\JUEGO DEL AHORCADO-MAUI.NET\\Control de versiones\\Version 1\\Practica-En-MAUI\\PracticaEnMaui\\Page\\pagina2.xaml",
+              "RelativeDocumentMoniker": "PracticaEnMaui\\Page\\pagina2.xaml",
+              "ToolTip": "C:\\Users\\Ariel\\Desktop\\semestre 2\\PROGRAMACION 1\\PROYECTO DEL AHORCADO\\JUEGO DEL AHORCADO-MAUI.NET\\Control de versiones\\Version 1\\Practica-En-MAUI\\PracticaEnMaui\\Page\\pagina2.xaml",
+              "RelativeToolTip": "PracticaEnMaui\\Page\\pagina2.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-09T11:29:51.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "pagina1.xaml",
+              "DocumentMoniker": "C:\\Users\\Ariel\\Desktop\\semestre 2\\PROGRAMACION 1\\PROYECTO DEL AHORCADO\\JUEGO DEL AHORCADO-MAUI.NET\\Control de versiones\\Version 1\\Practica-En-MAUI\\PracticaEnMaui\\Page\\pagina1.xaml",
+              "RelativeDocumentMoniker": "PracticaEnMaui\\Page\\pagina1.xaml",
+              "ToolTip": "C:\\Users\\Ariel\\Desktop\\semestre 2\\PROGRAMACION 1\\PROYECTO DEL AHORCADO\\JUEGO DEL AHORCADO-MAUI.NET\\Control de versiones\\Version 1\\Practica-En-MAUI\\PracticaEnMaui\\Page\\pagina1.xaml",
+              "RelativeToolTip": "PracticaEnMaui\\Page\\pagina1.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-09T11:29:30.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PracticaEnMaui.csproj",
+              "DocumentMoniker": "C:\\Users\\Ariel\\Desktop\\semestre 2\\PROGRAMACION 1\\PROYECTO DEL AHORCADO\\JUEGO DEL AHORCADO-MAUI.NET\\Control de versiones\\Version 1\\Practica-En-MAUI\\PracticaEnMaui\\PracticaEnMaui.csproj",
               "RelativeDocumentMoniker": "PracticaEnMaui\\PracticaEnMaui.csproj",
-              "ToolTip": "C:\\Users\\Ariel\\Desktop\\CLASES DE YOUTUBE\\PracticaEnMaui\\PracticaEnMaui\\PracticaEnMaui.csproj",
+              "ToolTip": "C:\\Users\\Ariel\\Desktop\\semestre 2\\PROGRAMACION 1\\PROYECTO DEL AHORCADO\\JUEGO DEL AHORCADO-MAUI.NET\\Control de versiones\\Version 1\\Practica-En-MAUI\\PracticaEnMaui\\PracticaEnMaui.csproj",
               "RelativeToolTip": "PracticaEnMaui\\PracticaEnMaui.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
